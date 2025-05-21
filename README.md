@@ -24,7 +24,7 @@ SUM(amount) OVER (PARTITION BY region): total sales per region.
 ![Image](https://github.com/user-attachments/assets/7ef9b733-822c-4869-8c29-8f3303da1e2a)
 
 ROW_NUMBER() OVER (PARTITION BY product ORDER BY amount DESC): ranking orders by amount within each product.
-Image
+![Image](https://github.com/user-attachments/assets/1abecdd5-3b0e-42a1-925f-1db2e97087b5)
 
 A CTE (avg_region) to compute average amount per region, then filters actual sales greater than that average.
 Image
