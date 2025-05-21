@@ -1,11 +1,23 @@
 # DATA-ANALYSIS-WITH-COMPLEX-QUERIES
 
 Task 2: DATA ANALYSIS WITH COMPLEX QUERIES
+
+
 Company: CODTECH IT SOLUTIONS
+
+
 Name : pasupula sai prasad
+
+
 Intern ID : CT04DL115
+
+
 Domain : SQL
+
+
 Duration : 4 WEEKS
+
+
 Mentor : Neela Santhosh
 
 Task Description
