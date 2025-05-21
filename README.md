@@ -16,6 +16,8 @@ Steps and Files
 analysis.sql
 Creates a table named .orders2 (order_id, item_name, region, order_value) 
 Inserts five sample rows.
+![Image](https://github.com/user-attachments/assets/fd49b356-734a-4cdd-bc19-58e11617f229)
+
 
 Demonstrates:
 SUM(amount) OVER (PARTITION BY region): total sales per region.
