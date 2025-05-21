@@ -21,7 +21,7 @@ Inserts five sample rows.
 
 Demonstrates:
 SUM(amount) OVER (PARTITION BY region): total sales per region.
-Image
+![Image](https://github.com/user-attachments/assets/7ef9b733-822c-4869-8c29-8f3303da1e2a)
 
 ROW_NUMBER() OVER (PARTITION BY product ORDER BY amount DESC): ranking orders by amount within each product.
 Image
