@@ -27,6 +27,6 @@ ROW_NUMBER() OVER (PARTITION BY product ORDER BY amount DESC): ranking orders by
 ![Image](https://github.com/user-attachments/assets/1abecdd5-3b0e-42a1-925f-1db2e97087b5)
 
 A CTE (avg_region) to compute average amount per region, then filters actual sales greater than that average.
-Image
+![Image](https://github.com/user-attachments/assets/ae4182e8-ab1a-4f80-9f40-419e0c9d7531)
 
 A subquery that aggregates total sales per product, then filters to products whose total sales exceed 250.
